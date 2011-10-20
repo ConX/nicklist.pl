@@ -22,8 +22,8 @@ along with this program.  If not, see [here](http://www.gnu.org/licenses/).
 
 Authors
 --------
- - Haui <haui45 at web dot de> [Initial script]
- - ConX <conx at xanthopoulos dot info> [Some changes]
+ - Haui \<haui45 at web dot de\> [Initial script]
+ - ConX \<conx at xanthopoulos dot info\> [Some changes]
 
 Installation
 -------------
